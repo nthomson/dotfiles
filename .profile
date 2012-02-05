@@ -1,1 +1,3 @@
-alias ls='ls -G'
+if [ -f ~/.bashrc ]; then
+    source ~/.bashrc
+fi
