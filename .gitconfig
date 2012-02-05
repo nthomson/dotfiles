@@ -3,3 +3,11 @@
 	email = kh.cubed@gmail.com
 [github]
 	user = ploosh
+[color]
+	ui = true
+[color "diff"]
+	meta = yellow
+	frag = magenta
+	old = red
+	new = blue
+	whitespace = red reverse
