@@ -1,3 +1,10 @@
-export WORKON_HOME=$HOME/Documents/python_projects
+# Custom exports
+export PROJPATH=$HOME/Documents
+
+# Aliases
+alias ls='ls -alG'
+alias projpath='cd $PROJPATH'
+
+# virtualenv wrapper hookups
+export WORKON_HOME=$PROJPATH/python_projects
 source /usr/local/bin/virtualenvwrapper.sh
-alias ls='ls -G'
