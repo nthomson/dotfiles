@@ -11,5 +11,5 @@ for file in $FILES; do
         `ln -s $file ~/$filename`
     fi
 
-    let index++
+    index=$((index+1))
 done
