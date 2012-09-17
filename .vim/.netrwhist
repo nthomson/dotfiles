@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/home/nthomson/src/annotate/demo'
+let g:netrw_dirhist_2='/home/nthomson/src/summonerstats/summonerstats/apps/leaguetrack'
+let g:netrw_dirhist_3='/home/nthomson/src/nthomson.com'
+let g:netrw_dirhist_4='/home/nthomson/env/summonerstats/lib/python2.7/site-packages/lolreader'
+let g:netrw_dirhist_5='/home/nthomson/src/summonerstats/summonerstats'
+let g:netrw_dirhist_6='/home/nthomson/src/dotfiles/.vim/ftplugin'
